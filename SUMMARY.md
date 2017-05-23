@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Thematic Mapping & Visualization](chapter1.md)
 * [Intro to Geospatial Technologies & GIS](intro-to-geospatial-technologies-and-gis.md)
 * Google Earth \(Pro\)
 * Raster GIS
