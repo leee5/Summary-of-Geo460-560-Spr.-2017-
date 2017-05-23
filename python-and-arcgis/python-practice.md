@@ -171,8 +171,7 @@
 
 #### 02\_str.py
 
-    ```python
-
+```py
     # http://programminghistorian.org/lessons/manipulating-strings-in-python
 
     # creating a new sring
@@ -228,7 +227,7 @@
 
     message9 = "Hello World"
     print(message9[:5].find("d")) # -1
-    ```
+```
 
 
 
