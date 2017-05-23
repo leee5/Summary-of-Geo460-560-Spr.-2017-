@@ -2,9 +2,7 @@
 
 * view on [GitBook](https://www.gitbook.com/book/leee5/new-techniques-in-giscience/details)
 
-* _by _Eunmok Lee, last updated May 23, 2017
-
-
+* by Eunmok Lee, last updated May 23, 2017
 
 This summary is created with GitBook \([http://gitbook.com](http://gitbook.com/)\), an open-source publishing platform that creates multiple editions \(Web, PDF, ePUB, Mobi/Kindle\), written in the easy-to-read Markdown format.
 
