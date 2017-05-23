@@ -16,5 +16,7 @@ The course introduces students to new techniques in Geographic Information Scien
 * To learn how to use most recent software and internet mapping skills related with our topics
 * To learn the basic knowledge of techniques to distribute, process and display geographical data via the Internet
 
+#### License
 
+This is copyrighted by Eunmok Lee and distributed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://choosealicense.com/licenses/cc-by-sa-4.0/#). You may freely share and modify this content for non-commercial purposes, with a source credit to Eunmok Lee.
 
