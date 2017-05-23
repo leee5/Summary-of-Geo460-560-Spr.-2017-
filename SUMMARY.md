@@ -10,6 +10,7 @@
 * Global Monitoring
 * [Python & ArcGIS](python-and-arcgis.md)
   * [Introduction to Python](python-and-arcgis/intro-to-python.md)
+  * [Python Practice](python-and-arcgis/python-practice.md)
 * Web GIS
 * Data Visualization with Excel
 * R & Data Visualization
