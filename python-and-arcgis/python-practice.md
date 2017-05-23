@@ -3,6 +3,12 @@
 #### 00.pythonIntro.py
 
 ```
+kdkdk
+dkkdkdk
+dkdkd
+```
+
+```
 import sys
 ######################################################
 # sys commands
