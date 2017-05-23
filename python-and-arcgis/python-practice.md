@@ -3,6 +3,8 @@
 #### 00.pythonIntro.py
 
 ```
+'''python
+
 import sys
 ######################################################
 # sys commands
@@ -36,6 +38,8 @@ C:\Python27\ArcGIS10.3\python.exe M:\Classes(Spring2017)\G460_134SHD\01.practice
 
 #getting help
 #help(os.listdir)
+
+'''
 ```
 
 #### 01\_var&str.py
