@@ -2,7 +2,7 @@
 
 * view on [GitBook](https://www.gitbook.com/book/leee5/new-techniques-in-giscience/details)
 
-                                                                                                                                                    _By Eunmok Lee, last updated May 23, 2017_
+                                                                                                                                             _by _Eunmok Lee, last updated May 23, 2017
 
 
 
