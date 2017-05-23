@@ -3,30 +3,6 @@
 #### 00.pythonIntro.py
 
 ```
-kdkdk
-dkkdkdk
-dkdkd
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-
-```
-
-```
 import sys
 ######################################################
 # sys commands
