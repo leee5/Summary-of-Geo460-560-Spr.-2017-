@@ -2,7 +2,7 @@
 
 #### 00.pythonIntro.py
 
-```
+```py
 import sys
 ######################################################
 # sys commands
@@ -40,7 +40,7 @@ C:\Python27\ArcGIS10.3\python.exe M:\Classes(Spring2017)\G460_134SHD\01.practice
 
 #### 01\_var&str.py
 
-```
+```py
 # -*- coding: cp1252 -*-
 # https://docs.python.org/2/tutorial/introduction.html
 # this is the first comment
@@ -171,7 +171,7 @@ len(s)
 
 #### 02\_str.py
 
-```
+```py
 # http://programminghistorian.org/lessons/manipulating-strings-in-python
 
 # creating a new sring
@@ -230,10 +230,8 @@ print(message9[:5].find("d")) # -1
 ```
 
 ```py
-'''Python
 message = "hi"
 print(message)
-'''
 ```
 
 
