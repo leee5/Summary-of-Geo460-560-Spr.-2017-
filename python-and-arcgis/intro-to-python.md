@@ -1,20 +1,16 @@
 # Introduction to Python
 
-
+#### 
 
 #### What is Python?
 
 * start from here: [https://www.python.org/](https://www.python.org/)
-
-
 
 #### Python for ArcGIS
 
 * [resources](http://resources.arcgis.com/en/communities/python/)
 * [for developers](https://developers.arcgis.com/)
 * [python with ArcGIS desktop](http://desktop.arcgis.com/en/analytics/python/)
-
-
 
 #### References
 
