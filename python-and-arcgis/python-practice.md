@@ -40,8 +40,7 @@
 
 #### 01\_var&str.py
 
-    ```python
-
+```python
     # -*- coding: cp1252 -*-
     # https://docs.python.org/2/tutorial/introduction.html
     # this is the first comment
@@ -168,67 +167,68 @@
     # The built-in function len() returns the length of a string.
     s = 'supercalifragilisticexpialidocious'
     len(s)
-    ```
+```
 
 #### 02\_str.py
 
-```
-# http://programminghistorian.org/lessons/manipulating-strings-in-python
+    ```python
 
-# creating a new sring
-message = "Hello World"
+    # http://programminghistorian.org/lessons/manipulating-strings-in-python
 
-# concatenate
-message1 = 'hello' + ' ' + 'world'
-print(message1)
+    # creating a new sring
+    message = "Hello World"
 
-# multiply
-message2a = 'hello ' * 3
-message2b = 'world'
-print(message2a + message2b)
+    # concatenate
+    message1 = 'hello' + ' ' + 'world'
+    print(message1)
 
-# append
-message3 = 'howdy'
-message3 += ' '
-message3 += 'world'
-print(message3)
+    # multiply
+    message2a = 'hello ' * 3
+    message2b = 'world'
+    print(message2a + message2b)
 
-# length
-message4 = 'hello' + ' ' + 'world'
-print(len(message4))
+    # append
+    message3 = 'howdy'
+    message3 += ' '
+    message3 += 'world'
+    print(message3)
 
-# find
-message5 = "hello world"
-message5a = message5.find("worl") # help(str.find), index as in slice
-print(message5a)
+    # length
+    message4 = 'hello' + ' ' + 'world'
+    print(len(message4))
 
-message6 = "Hello World"
-message6b = message6.find("squirrel")
-print(message6b) # -1
+    # find
+    message5 = "hello world"
+    message5a = message5.find("worl") # help(str.find), index as in slice
+    print(message5a)
 
-# lower case
-message7 = "HELLO WORLD"
-message7a = message7.lower() # upper()
-print(message7a)
+    message6 = "Hello World"
+    message6b = message6.find("squirrel")
+    print(message6b) # -1
 
-# replace
-message8 = "HELLO WORLD"
-message8a = message8.replace("L", "pizza")
-print(message8a)
+    # lower case
+    message7 = "HELLO WORLD"
+    message7a = message7.lower() # upper()
+    print(message7a)
 
-# slice
-message9 = "Hello World"
-message9a = message9[1:8]
-print(message9a)
+    # replace
+    message8 = "HELLO WORLD"
+    message8a = message8.replace("L", "pizza")
+    print(message8a)
 
-startLoc = 2
-endLoc = 8
-message9b = message9[startLoc: endLoc]
-print(message9b)
+    # slice
+    message9 = "Hello World"
+    message9a = message9[1:8]
+    print(message9a)
 
-message9 = "Hello World"
-print(message9[:5].find("d")) # -1
-```
+    startLoc = 2
+    endLoc = 8
+    message9b = message9[startLoc: endLoc]
+    print(message9b)
+
+    message9 = "Hello World"
+    print(message9[:5].find("d")) # -1
+    ```
 
 
 
