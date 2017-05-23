@@ -1,7 +1,5 @@
 # Python Practice
 
-
-
 #### 00.pythonIntro.py
 
 ```
@@ -169,6 +167,66 @@ newPy = word[:2] + 'py'
 # The built-in function len() returns the length of a string.
 s = 'supercalifragilisticexpialidocious'
 len(s)
+```
+
+#### 02\_str.py
+
+```
+# http://programminghistorian.org/lessons/manipulating-strings-in-python
+
+# creating a new sring
+message = "Hello World"
+
+# concatenate
+message1 = 'hello' + ' ' + 'world'
+print(message1)
+
+# multiply
+message2a = 'hello ' * 3
+message2b = 'world'
+print(message2a + message2b)
+
+# append
+message3 = 'howdy'
+message3 += ' '
+message3 += 'world'
+print(message3)
+
+# length
+message4 = 'hello' + ' ' + 'world'
+print(len(message4))
+
+# find
+message5 = "hello world"
+message5a = message5.find("worl") # help(str.find), index as in slice
+print(message5a)
+
+message6 = "Hello World"
+message6b = message6.find("squirrel")
+print(message6b) # -1
+
+# lower case
+message7 = "HELLO WORLD"
+message7a = message7.lower() # upper()
+print(message7a)
+
+# replace
+message8 = "HELLO WORLD"
+message8a = message8.replace("L", "pizza")
+print(message8a)
+
+# slice
+message9 = "Hello World"
+message9a = message9[1:8]
+print(message9a)
+
+startLoc = 2
+endLoc = 8
+message9b = message9[startLoc: endLoc]
+print(message9b)
+
+message9 = "Hello World"
+print(message9[:5].find("d")) # -1
 ```
 
 
