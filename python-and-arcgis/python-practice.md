@@ -229,8 +229,8 @@ message9 = "Hello World"
 print(message9[:5].find("d")) # -1
 ```
 
-```
-'''python
+```py
+'''Python
 message = "hi"
 print(message)
 '''
