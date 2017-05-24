@@ -9,6 +9,3 @@
   : Cartographic Perspectives - Response to Cartography is Dead \(Thanks God!\), Spring 2004  
   : Cartographic Perspectives - Cartography is Alive \(Thank God!\), Fall 2004  
   : Cartographic Perspectives - Cartography 2003, Winter 2004
-
-
-
