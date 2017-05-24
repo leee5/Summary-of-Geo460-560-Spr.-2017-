@@ -1,6 +1,6 @@
 # Summary of Geo460/560 \(Spr. 2017\)
 
-* view on [GitBook](https://www.gitbook.com/book/leee5/new-techniques-in-giscience/details)
+* view on [GitBook](https://leee5.gitbooks.io/new-techniques-in-giscience/content/)
 
 * by Eunmok Lee, last updated May 23, 2017
 
