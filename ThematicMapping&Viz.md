@@ -7,7 +7,7 @@
   : [Has GIS Killed Cartography?](/Summary-of-Geo460-560-Spr.-2017-/refs/Has GIS killed cartography.pdf), CSG, Spring 1996  
   : Cartographic Perspectives - [Cartography is Dead \(Thank God!\)](/Summary-of-Geo460-560-Spr.-2017-/refs/CartographyIsDead%28DennisWood%29.pdf), Spring 2003  
   : Cartographic Perspectives - [Response to Cartography is Dead \(Thanks God!\)](/Summary-of-Geo460-560-Spr.-2017-/refs/ResponseToCartoIsDead.pdf), Spring 2004  
-  : Cartographic Perspectives - [Cartography is Alive \(Thank God!\)](https://github.com/leee5/Summary-of-Geo460-560-Spr.-2017-/blob/master/refs/CartoIsAlive.pdf), Fall 2004  
+  : Cartographic Perspectives - [Cartography is Alive \(Thank God!\)](https://github.com/leee5/Summary-of-Geo460-560-Spr.-2017-/raw/master/refs/CartoIsAlive.pdf), Fall 2004  
   : Cartographic Perspectives - [Cartography 2003](/Summary-of-Geo460-560-Spr.-2017-/refs/Cartography2003.pdf), Winter 2004
 
 
