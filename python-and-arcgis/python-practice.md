@@ -1,6 +1,6 @@
 # Python Practice
 
-* download the [files](https://github.com/leee5/Summary-of-Geo460-560-Spr.-2017-/raw/master/python-and-arcgis/00.python.zip)
+#### 
 
 #### 00.pythonIntro.py
 
@@ -230,6 +230,42 @@
     message9 = "Hello World"
     print(message9[:5].find("d")) # -1
 ```
+
+
+
+03\_list.py
+
+04\_01\_testAverage.py
+
+04\_02\_autoRepairPayroll.py
+
+04\_03\_letter2num.py
+
+04\_03\_sortNames.py
+
+04\_04\_grader.py
+
+04\_04\_grader2.py
+
+04\_05\_simpleFor.py
+
+04\_05\_simpleFor2.py
+
+04\_05\_simpleForRange.py
+
+04\_05\_squares.py
+
+04\_if\_for.py
+
+05\_01\_printLyrics.py
+
+05\_02\_p&a.py
+
+05\_function.py
+
+
+
+* download the [files](https://github.com/leee5/Summary-of-Geo460-560-Spr.-2017-/raw/master/python-and-arcgis/00.python.zip) in a zip
 
 
 
