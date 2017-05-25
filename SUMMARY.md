@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Thematic Mapping & Visualization](ThematicMapping&Viz.md)
-  * [readMeTest.md](test/readMeTest.md)
+* [Thematic Mapping & Visualization](ThematicMapping-Viz.md/ThematicMapping&Viz.md)
 * [Intro to Geospatial Technologies & GIS](intro-to-geospatial-technologies-and-gis.md)
 * Google Earth \(Pro\)
 * Raster GIS
