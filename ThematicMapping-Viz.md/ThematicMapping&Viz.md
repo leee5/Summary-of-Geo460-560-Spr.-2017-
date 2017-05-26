@@ -12,35 +12,7 @@
   * Cartographic Perspectives - [Cartography 2003](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/refs/Cartography2003.pdf), Winter 2004
 * more about [Denis Wood](http://www.deniswood.net/home.htm)
 
----
 
-* Good map or bad map? Which one's better?
-
-  * why do you think so?
-
-  > ![](/ThematicMapping-Viz.md/badMap.png)![](/ThematicMapping-Viz.md/goodMap.png)
-
-* Not just a bad map?
-
-  * what's wrong with this map?
-
-  > ![](/ThematicMapping-Viz.md/wrongMap.png)
-
----
-
-* Visualization
-  * what is visualization?
-  * how many circles with a negative number? which one's easier to count?
-
-> ![](/ThematicMapping-Viz.md/beforeViz.png)![](/ThematicMapping-Viz.md/afterViz.png)
-
-* another example
-  * conditional formatting
-  * or format as table
-
-> ![](/ThematicMapping-Viz.md/excelViz.png)
->
-> ![](/ThematicMapping-Viz.md/excelTblViz.png)
 
 
 
