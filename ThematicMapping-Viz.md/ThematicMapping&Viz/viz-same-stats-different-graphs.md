@@ -3,8 +3,3 @@
   * Anscombe's quartet
 
        : each dataset has the same summary statistics
-
-* * 
-
-
-
