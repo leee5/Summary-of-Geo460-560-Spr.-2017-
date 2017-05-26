@@ -10,7 +10,11 @@
 
   > ![](/ThematicMapping-Viz.md/wrongMap.png)
 
-* What is the percentage of 
+* What is the Asian population percentage?
+
+  * Not only is it to lie with maps, but it's essential. - [Mark Monmonier](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm)
+
+  * Don't lie with your data. - [mookie](https://em-lee.gitbooks.io/without-a-trace/content/)
 
 
 
