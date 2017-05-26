@@ -4,6 +4,7 @@
 * [Thematic Mapping & Visualization](ThematicMapping-Viz.md/ThematicMapping&Viz.md)
   * [A map which is good, bad, or wrong](ThematicMapping-Viz.md/ThematicMapping&Viz/a-mpa-good-bad-and-wrong.md)
   * [Visualization](ThematicMapping-Viz.md/ThematicMapping&Viz/visualization.md)
+  * [Viz: same stats, different graphs](ThematicMapping-Viz.md/ThematicMapping&Viz/viz-same-stats-different-graphs.md)
 * [Intro to Geospatial Technologies & GIS](intro-to-geospatial-technologies-and-gis.md)
 * Google Earth \(Pro\)
 * Raster GIS
