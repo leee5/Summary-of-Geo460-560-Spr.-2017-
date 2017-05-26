@@ -15,18 +15,32 @@
 ---
 
 * Good map or bad map? Which one's better?
+
   * why do you think so?
 
   > ![](/ThematicMapping-Viz.md/badMap.png)![](/ThematicMapping-Viz.md/goodMap.png)
 
 * Not just a bad map?
+
   * what's wrong with this map?
 
   > ![](/ThematicMapping-Viz.md/wrongMap.png)
 
 ---
 
+* Visualization
+  * what is visualization?
+  * how many circles with a negative number? which one's easier to count?
 
+> ![](/ThematicMapping-Viz.md/beforeViz.png)![](/ThematicMapping-Viz.md/afterViz.png)
+
+* another example
+  * conditional formatting
+  * or format as table
+
+> ![](/ThematicMapping-Viz.md/excelViz.png)
+>
+> ![](/ThematicMapping-Viz.md/excelTblViz.png)
 
 
 
