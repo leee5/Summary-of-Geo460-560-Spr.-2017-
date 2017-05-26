@@ -6,8 +6,5 @@
 
   * Datasaurus: watch on [_YouTube_](https://www.youtube.com/watch?v=DbJyPELmhJc)
 
-
-  ![](/assets3/import.png) &lt; image from the [_Paper _](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/ThematicMapping-Viz.md/SameStats-DifferentGraphs.pdf)&gt;
-
-
+         ![](/assets3/import.png) &lt; image from the [_Paper _](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/ThematicMapping-Viz.md/SameStats-DifferentGraphs.pdf)&gt;
 
