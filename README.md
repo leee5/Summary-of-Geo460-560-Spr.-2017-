@@ -2,7 +2,7 @@
 
 * view on [GitBook](https://leee5.gitbooks.io/new-techniques-in-giscience/content/)
 
-* by Eunmok Lee, last updated May 25, 2017
+* by [Eunmok Lee](https://em-lee.gitbooks.io/without-a-trace/content/), last updated May 25, 2017
 
 This summary is written with GitBook \([http://gitbook.com](http://gitbook.com/)\), an open-source publishing platform that creates multiple editions \(Web, PDF, ePUB, Mobi/Kindle\), in the Markdown format.
 
