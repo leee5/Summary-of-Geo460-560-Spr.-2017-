@@ -1,4 +1,4 @@
-# Intro
+# Introduction to Geospatial Technologies & GIS
 
 
 
