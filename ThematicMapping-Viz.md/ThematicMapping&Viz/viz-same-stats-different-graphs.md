@@ -5,8 +5,6 @@
 
 ![](/ThematicMapping-Viz.md/Anscombe.svg.png)
 
-
-
 * Datasarus: watch on [_YouTube_](https://www.youtube.com/watch?v=DbJyPELmhJc)
   * image from the [_article_](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/ThematicMapping-Viz.md/SameStats-DifferentGraphs.pdf)
 
