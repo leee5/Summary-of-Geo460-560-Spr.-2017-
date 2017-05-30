@@ -4,7 +4,7 @@
 
   > ![](/ThematicMapping-Viz.md/OHpopDensity.png)
 
-
+  
 
 * Types of Maps
 
