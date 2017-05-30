@@ -6,7 +6,7 @@
 
 * Types of Maps
 
-  * Dent, Borden D., Torguson, Jeffrey S., & Hodler, Thomas W. 2009. Cartography: Thematic Map Design \(6`^th^` edition\)
+  * Dent, Borden D., Torguson, Jeffrey S., & Hodler, Thomas W. 2009. _Cartography: Thematic Map Design_ \(6th ed.\)
 
   > ![](/ThematicMapping-Viz.md/MapTypes.jpg)
 
