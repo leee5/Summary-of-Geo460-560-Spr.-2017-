@@ -4,6 +4,8 @@
 
   > ![](/ThematicMapping-Viz.md/OHpopDensity.png)
 
+
+
 * Types of Maps
 
   * Dent, Borden D., Torguson, Jeffrey S., & Hodler, Thomas W. 2009. _Cartography: Thematic Map Design_ \(6th ed.\)
