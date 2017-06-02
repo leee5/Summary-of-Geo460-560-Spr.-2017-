@@ -12,7 +12,10 @@
 
 * Temporal GIS
 
-  * Tornado touchdown \(46,889 points from 1950 to 2004\)
+  * Tornado touchdown \(46,889 points from 1950 to 2004\)  
+    ![](/pics/Intro to Geospatial Techs - GIS/tornado4temp.png)
+
+  * calculate monthly Std. Dev. ellipses and film the temporal change: [monthly.mp4](/refs/monthly.mp4)
 
 
 
