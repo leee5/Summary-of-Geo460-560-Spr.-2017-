@@ -4,11 +4,11 @@
 
 * 3D GIS
 
-  * 3D representation of population
+  * 3D representation of population: [CountyPop.kmz](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/refs/CountyPop.kmz)
 
     ![](/pics/Intro to Geospatial Techs - GIS/3dGIS.png)
 
-  * [CountyPop.kmz](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/refs/CountyPop.kmz)
+  
 
 * Temporal GIS
 
