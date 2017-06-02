@@ -10,5 +10,9 @@
 
   * [CountyPop.kmz](https://leee5.github.io/Summary-of-Geo460-560-Spr.-2017-/refs/CountyPop.kmz)
 
+* Temporal GIS
+
+  * Tornado touchdown \(46,889 points from 1950 to 2004\)
+
 
 
