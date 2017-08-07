@@ -20,4 +20,5 @@
 * [R & Data Visualization](r-and-data-visualization.md)
 * Drone
 * 3D Printing
+* [Files & Data](files-and-data.md)
 
